@@ -15,7 +15,7 @@ emojis = ["😄", "😄", "😄", "😄",  # Higher chance of using these
 
 def generate_conversation(num_messages):
     conversation = []
-    participants = ["John", "Sarah"]
+    participants = ["John", "Sarah", "Taylor"]
     
     message_time = fake.date_time_this_year()
     
